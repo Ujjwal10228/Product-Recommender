@@ -1,0 +1,501 @@
+product_id,category,color,style_tags,brand
+P0001,shoes,green,boho,H&M
+P0002,jacket,blue,streetwear,H&M
+P0003,shoes,gray,casual,None
+P0004,hat,yellow,"boho, formal, minimal",Uniqlo
+P0005,hat,white,vintage,H&M
+P0006,shoes,yellow,"sporty, streetwear, boho",Levis
+P0007,jacket,white,"vintage, casual, streetwear",Adidas
+P0008,shoes,blue,"boho, formal, minimal",Nike
+P0009,skirt,yellow,casual,Uniqlo
+P0010,hat,blue,vintage,H&M
+P0011,hat,yellow,"casual, formal, minimal",Levis
+P0012,shoes,red,"boho, formal, casual",None
+P0013,pants,white,boho,Zara
+P0014,top,gray,"minimal, sporty",Uniqlo
+P0015,jacket,black,boho,Nike
+P0016,top,yellow,"formal, sporty",None
+P0017,shoes,green,"streetwear, casual",Levis
+P0018,dress,white,streetwear,Nike
+P0019,dress,yellow,"vintage, formal",Nike
+P0020,top,black,"minimal, formal",Adidas
+P0021,top,black,"minimal, formal, sporty",Levis
+P0022,jacket,white,"casual, minimal, boho",Nike
+P0023,dress,green,"vintage, boho",Levis
+P0024,hat,green,formal,Levis
+P0025,pants,gray,sporty,Levis
+P0026,pants,yellow,"sporty, vintage, casual",Zara
+P0027,top,yellow,"boho, minimal, sporty",H&M
+P0028,hat,blue,"formal, sporty",Zara
+P0029,shoes,blue,minimal,Zara
+P0030,skirt,gray,minimal,H&M
+P0031,pants,white,"casual, vintage, formal",Zara
+P0032,skirt,red,"casual, streetwear, formal",None
+P0033,top,blue,"streetwear, formal, sporty",H&M
+P0034,skirt,beige,"formal, casual",Nike
+P0035,skirt,white,"minimal, formal",Uniqlo
+P0036,shoes,red,minimal,None
+P0037,shoes,beige,"boho, streetwear",Levis
+P0038,shoes,blue,"sporty, casual, vintage",Levis
+P0039,skirt,blue,"minimal, streetwear",Nike
+P0040,skirt,black,"minimal, casual",Uniqlo
+P0041,skirt,yellow,"casual, vintage, sporty",Levis
+P0042,dress,blue,"sporty, boho, casual",Uniqlo
+P0043,shoes,black,"formal, sporty, streetwear",Uniqlo
+P0044,pants,green,vintage,Zara
+P0045,jacket,gray,"minimal, formal",Adidas
+P0046,jacket,beige,boho,Levis
+P0047,top,green,"vintage, streetwear",None
+P0048,shoes,black,"casual, sporty",None
+P0049,shoes,black,"vintage, streetwear, formal",H&M
+P0050,top,beige,"formal, boho",Nike
+P0051,skirt,red,"casual, streetwear",None
+P0052,skirt,beige,"minimal, sporty, casual",Adidas
+P0053,jacket,red,minimal,Zara
+P0054,shoes,yellow,"streetwear, minimal",H&M
+P0055,dress,white,boho,Adidas
+P0056,top,black,sporty,Zara
+P0057,pants,green,"vintage, boho",Zara
+P0058,top,green,vintage,Zara
+P0059,jacket,white,vintage,Adidas
+P0060,shoes,yellow,"casual, minimal, vintage",H&M
+P0061,pants,yellow,"formal, minimal",Zara
+P0062,shoes,beige,"sporty, casual, formal",Zara
+P0063,shoes,white,"minimal, formal, sporty",Zara
+P0064,top,black,formal,Adidas
+P0065,dress,white,"boho, formal, streetwear",None
+P0066,pants,white,"streetwear, vintage, boho",Uniqlo
+P0067,skirt,gray,minimal,Adidas
+P0068,hat,green,"minimal, vintage, sporty",Zara
+P0069,skirt,black,"vintage, streetwear",Levis
+P0070,pants,black,vintage,Uniqlo
+P0071,jacket,blue,"vintage, boho",Zara
+P0072,pants,green,"boho, minimal",Levis
+P0073,top,white,"boho, formal",Uniqlo
+P0074,shoes,beige,minimal,Zara
+P0075,jacket,white,"sporty, streetwear",Zara
+P0076,pants,green,"boho, sporty, vintage",Nike
+P0077,top,green,"streetwear, casual, boho",None
+P0078,top,black,sporty,Levis
+P0079,hat,green,"casual, streetwear, minimal",Uniqlo
+P0080,skirt,green,"streetwear, minimal",Uniqlo
+P0081,skirt,beige,"casual, sporty, boho",Nike
+P0082,skirt,blue,"streetwear, boho, formal",None
+P0083,hat,yellow,"boho, streetwear, sporty",Uniqlo
+P0084,pants,red,minimal,H&M
+P0085,skirt,beige,"casual, sporty",Nike
+P0086,skirt,white,"vintage, casual, streetwear",Nike
+P0087,top,blue,"streetwear, vintage",Adidas
+P0088,top,gray,"vintage, casual",Adidas
+P0089,shoes,gray,vintage,None
+P0090,dress,white,boho,H&M
+P0091,dress,red,"sporty, formal, minimal",H&M
+P0092,top,black,casual,None
+P0093,top,green,"formal, minimal",Nike
+P0094,shoes,beige,minimal,Levis
+P0095,hat,green,vintage,H&M
+P0096,pants,black,minimal,Levis
+P0097,skirt,beige,"formal, streetwear, vintage",None
+P0098,dress,beige,minimal,H&M
+P0099,dress,beige,"vintage, casual, sporty",None
+P0100,jacket,gray,"minimal, formal, streetwear",H&M
+P0101,hat,gray,vintage,Adidas
+P0102,pants,white,streetwear,Nike
+P0103,pants,red,"boho, sporty",Zara
+P0104,dress,gray,"boho, minimal",Zara
+P0105,jacket,gray,"vintage, casual, minimal",Zara
+P0106,top,green,"sporty, formal, minimal",Adidas
+P0107,dress,red,"formal, casual, streetwear",Adidas
+P0108,dress,black,casual,Levis
+P0109,hat,green,"vintage, formal",Uniqlo
+P0110,hat,green,casual,Adidas
+P0111,top,green,"minimal, boho",H&M
+P0112,hat,red,"formal, vintage, minimal",H&M
+P0113,jacket,red,sporty,Nike
+P0114,skirt,red,"formal, minimal, sporty",Uniqlo
+P0115,shoes,green,formal,Levis
+P0116,dress,black,"sporty, minimal, vintage",H&M
+P0117,jacket,red,formal,Levis
+P0118,skirt,red,"streetwear, boho, formal",Zara
+P0119,hat,white,streetwear,Adidas
+P0120,skirt,gray,"formal, vintage, sporty",Zara
+P0121,skirt,gray,"formal, boho",Levis
+P0122,shoes,beige,"minimal, boho",Zara
+P0123,dress,red,"boho, casual, formal",None
+P0124,shoes,yellow,"boho, minimal",Adidas
+P0125,top,blue,"minimal, casual, boho",Adidas
+P0126,skirt,green,casual,Uniqlo
+P0127,hat,gray,"minimal, formal",Uniqlo
+P0128,top,green,"minimal, formal, vintage",Adidas
+P0129,shoes,beige,"minimal, formal, boho",H&M
+P0130,pants,black,"minimal, sporty",None
+P0131,dress,blue,"boho, vintage",H&M
+P0132,jacket,black,"vintage, minimal, boho",H&M
+P0133,dress,yellow,"formal, sporty",Adidas
+P0134,pants,green,"sporty, streetwear",Zara
+P0135,top,green,sporty,Adidas
+P0136,dress,red,"vintage, minimal",Nike
+P0137,top,gray,"minimal, formal, boho",Uniqlo
+P0138,dress,green,sporty,Adidas
+P0139,hat,gray,casual,Nike
+P0140,skirt,black,"formal, minimal",Zara
+P0141,pants,gray,"vintage, streetwear, casual",Nike
+P0142,pants,green,sporty,Uniqlo
+P0143,dress,black,"vintage, casual",None
+P0144,skirt,gray,sporty,None
+P0145,dress,yellow,boho,Uniqlo
+P0146,dress,beige,"minimal, casual",Uniqlo
+P0147,hat,yellow,"casual, minimal",H&M
+P0148,jacket,gray,"casual, sporty, formal",Zara
+P0149,pants,white,"sporty, streetwear, boho",None
+P0150,hat,blue,"boho, streetwear",Uniqlo
+P0151,skirt,beige,vintage,Nike
+P0152,hat,black,boho,Nike
+P0153,dress,beige,boho,H&M
+P0154,dress,red,casual,Adidas
+P0155,hat,gray,sporty,Adidas
+P0156,jacket,black,boho,Nike
+P0157,top,red,"minimal, casual",Adidas
+P0158,skirt,red,sporty,Nike
+P0159,jacket,white,"minimal, casual, boho",Levis
+P0160,hat,green,minimal,Nike
+P0161,hat,gray,casual,Nike
+P0162,pants,beige,"vintage, casual",Levis
+P0163,top,white,"formal, casual, streetwear",Uniqlo
+P0164,shoes,black,"casual, formal",Zara
+P0165,pants,white,"sporty, boho, formal",Nike
+P0166,skirt,green,"sporty, minimal",Zara
+P0167,pants,red,"formal, boho, sporty",Nike
+P0168,shoes,yellow,minimal,Zara
+P0169,dress,green,"sporty, vintage, minimal",Nike
+P0170,dress,beige,"vintage, sporty",Adidas
+P0171,top,black,"streetwear, casual",Adidas
+P0172,dress,black,"minimal, formal",None
+P0173,pants,gray,"casual, vintage",Levis
+P0174,skirt,blue,streetwear,Levis
+P0175,jacket,beige,streetwear,Levis
+P0176,shoes,yellow,"minimal, formal, streetwear",H&M
+P0177,top,white,"casual, sporty",Uniqlo
+P0178,pants,red,"sporty, formal",Levis
+P0179,skirt,black,"sporty, casual",None
+P0180,top,beige,"streetwear, vintage",Levis
+P0181,jacket,yellow,"casual, vintage, sporty",H&M
+P0182,dress,black,"vintage, casual, formal",Uniqlo
+P0183,pants,black,"boho, streetwear",Adidas
+P0184,pants,red,"boho, sporty",H&M
+P0185,hat,beige,vintage,Zara
+P0186,jacket,white,"streetwear, boho",Nike
+P0187,jacket,red,"casual, minimal, boho",Nike
+P0188,shoes,black,"vintage, minimal",Levis
+P0189,shoes,green,sporty,H&M
+P0190,shoes,green,minimal,Adidas
+P0191,top,white,"streetwear, sporty, casual",Adidas
+P0192,dress,green,"boho, vintage",Uniqlo
+P0193,skirt,yellow,"casual, minimal",Nike
+P0194,pants,yellow,"vintage, casual, minimal",Adidas
+P0195,top,gray,"boho, sporty",H&M
+P0196,hat,beige,sporty,Levis
+P0197,top,blue,"boho, casual, sporty",H&M
+P0198,dress,red,"sporty, formal, streetwear",Levis
+P0199,shoes,blue,"formal, minimal",Uniqlo
+P0200,hat,blue,casual,Zara
+P0201,pants,black,casual,H&M
+P0202,jacket,beige,minimal,Uniqlo
+P0203,pants,beige,"sporty, streetwear",Adidas
+P0204,hat,gray,"streetwear, formal, vintage",Uniqlo
+P0205,top,beige,vintage,H&M
+P0206,dress,beige,"casual, vintage, sporty",Nike
+P0207,top,blue,"sporty, formal",H&M
+P0208,top,yellow,"streetwear, boho, formal",None
+P0209,shoes,white,"streetwear, formal",Adidas
+P0210,top,black,casual,Adidas
+P0211,hat,yellow,"boho, formal, minimal",Nike
+P0212,pants,black,minimal,Uniqlo
+P0213,pants,gray,vintage,Adidas
+P0214,top,gray,"casual, sporty",Nike
+P0215,dress,gray,"sporty, minimal",None
+P0216,hat,white,minimal,Uniqlo
+P0217,pants,beige,"casual, vintage",Zara
+P0218,dress,blue,formal,Adidas
+P0219,jacket,yellow,"vintage, streetwear, formal",Uniqlo
+P0220,hat,black,"sporty, casual",Uniqlo
+P0221,jacket,green,formal,Uniqlo
+P0222,dress,yellow,"casual, formal",Uniqlo
+P0223,dress,beige,"formal, boho",H&M
+P0224,top,beige,"formal, vintage, sporty",Nike
+P0225,top,blue,"vintage, casual",Nike
+P0226,jacket,black,"boho, formal, casual",H&M
+P0227,shoes,blue,"vintage, streetwear, formal",Zara
+P0228,jacket,blue,streetwear,H&M
+P0229,jacket,green,"boho, formal, minimal",Uniqlo
+P0230,hat,blue,"streetwear, formal, boho",Levis
+P0231,dress,beige,"boho, formal, casual",Zara
+P0232,dress,beige,"streetwear, casual, vintage",Adidas
+P0233,hat,yellow,"boho, minimal",H&M
+P0234,dress,beige,formal,Adidas
+P0235,dress,beige,"casual, formal",Uniqlo
+P0236,shoes,green,vintage,Uniqlo
+P0237,pants,red,formal,Adidas
+P0238,skirt,blue,"vintage, minimal, sporty",Uniqlo
+P0239,top,red,"vintage, streetwear",Zara
+P0240,hat,red,"streetwear, formal, boho",Nike
+P0241,shoes,gray,"formal, vintage",Uniqlo
+P0242,jacket,blue,streetwear,Levis
+P0243,pants,white,"sporty, vintage, streetwear",Zara
+P0244,top,gray,sporty,Zara
+P0245,shoes,white,"formal, minimal, vintage",Levis
+P0246,top,yellow,"boho, sporty, vintage",Nike
+P0247,dress,yellow,minimal,Uniqlo
+P0248,jacket,green,"formal, casual",H&M
+P0249,shoes,white,"formal, sporty",Uniqlo
+P0250,dress,gray,"minimal, casual, vintage",Uniqlo
+P0251,hat,beige,sporty,H&M
+P0252,skirt,blue,vintage,Uniqlo
+P0253,pants,white,"sporty, casual",Adidas
+P0254,shoes,white,formal,Zara
+P0255,shoes,gray,minimal,H&M
+P0256,dress,white,"streetwear, formal, casual",H&M
+P0257,pants,red,minimal,Levis
+P0258,skirt,white,"boho, minimal, casual",Adidas
+P0259,jacket,blue,vintage,Adidas
+P0260,jacket,red,"vintage, casual",H&M
+P0261,dress,red,"sporty, boho",H&M
+P0262,shoes,blue,formal,Uniqlo
+P0263,shoes,gray,"formal, streetwear, minimal",Adidas
+P0264,dress,yellow,"casual, formal, sporty",Zara
+P0265,pants,red,"casual, minimal, vintage",H&M
+P0266,dress,gray,"vintage, casual",Uniqlo
+P0267,skirt,gray,boho,Adidas
+P0268,skirt,white,vintage,Zara
+P0269,shoes,yellow,"streetwear, casual, sporty",Zara
+P0270,top,gray,vintage,None
+P0271,jacket,black,casual,Uniqlo
+P0272,hat,white,formal,Nike
+P0273,skirt,red,"streetwear, formal",Zara
+P0274,pants,yellow,"minimal, boho",Nike
+P0275,jacket,green,formal,Zara
+P0276,pants,black,"casual, streetwear, boho",H&M
+P0277,jacket,green,"casual, sporty, formal",None
+P0278,dress,red,"vintage, boho, casual",Uniqlo
+P0279,skirt,gray,"vintage, boho",Levis
+P0280,skirt,black,"formal, vintage",None
+P0281,pants,beige,"casual, minimal",Levis
+P0282,top,white,boho,Zara
+P0283,skirt,yellow,sporty,Levis
+P0284,shoes,white,"streetwear, boho, minimal",Nike
+P0285,top,gray,vintage,Levis
+P0286,top,green,sporty,H&M
+P0287,pants,white,"formal, streetwear",Zara
+P0288,skirt,white,"streetwear, boho, vintage",None
+P0289,top,blue,"boho, formal, minimal",Uniqlo
+P0290,pants,red,"vintage, minimal",Adidas
+P0291,top,white,"vintage, casual, formal",H&M
+P0292,dress,red,"streetwear, casual",Uniqlo
+P0293,jacket,beige,"boho, formal, vintage",Zara
+P0294,pants,blue,"formal, sporty, vintage",Adidas
+P0295,pants,black,"boho, casual",None
+P0296,pants,beige,casual,Adidas
+P0297,skirt,yellow,"streetwear, formal, vintage",Zara
+P0298,dress,white,"formal, casual",H&M
+P0299,top,beige,"sporty, streetwear, formal",Uniqlo
+P0300,shoes,white,"streetwear, sporty",Nike
+P0301,pants,green,"casual, boho",Levis
+P0302,pants,gray,"formal, minimal, streetwear",Adidas
+P0303,skirt,black,"formal, streetwear",Adidas
+P0304,jacket,gray,"streetwear, sporty, casual",Levis
+P0305,dress,beige,minimal,Nike
+P0306,dress,red,boho,Uniqlo
+P0307,skirt,beige,boho,H&M
+P0308,jacket,blue,"streetwear, formal",Zara
+P0309,hat,gray,"casual, formal, vintage",H&M
+P0310,top,green,boho,Nike
+P0311,skirt,red,"minimal, sporty, boho",Zara
+P0312,pants,black,"vintage, boho, streetwear",Adidas
+P0313,hat,yellow,"formal, streetwear",Adidas
+P0314,hat,blue,"streetwear, boho",Levis
+P0315,pants,blue,vintage,Nike
+P0316,shoes,red,streetwear,H&M
+P0317,shoes,beige,"boho, casual",Zara
+P0318,shoes,gray,"vintage, streetwear, minimal",Nike
+P0319,top,yellow,"streetwear, sporty, casual",Nike
+P0320,shoes,blue,"streetwear, minimal, vintage",Adidas
+P0321,hat,beige,minimal,Zara
+P0322,pants,yellow,"streetwear, sporty, boho",Levis
+P0323,top,green,formal,Levis
+P0324,hat,red,"boho, casual",Uniqlo
+P0325,shoes,black,streetwear,Adidas
+P0326,jacket,black,"minimal, casual",Adidas
+P0327,skirt,red,streetwear,Uniqlo
+P0328,top,beige,"sporty, minimal",Zara
+P0329,shoes,gray,"boho, casual",Levis
+P0330,pants,red,casual,Adidas
+P0331,shoes,gray,"streetwear, vintage",Uniqlo
+P0332,jacket,white,"minimal, formal, sporty",None
+P0333,jacket,blue,vintage,Uniqlo
+P0334,jacket,red,"casual, formal",Adidas
+P0335,shoes,black,"formal, sporty",Uniqlo
+P0336,pants,green,"vintage, minimal",Nike
+P0337,pants,white,"minimal, casual, vintage",Zara
+P0338,jacket,black,casual,Zara
+P0339,shoes,gray,boho,Zara
+P0340,jacket,beige,"boho, streetwear",Nike
+P0341,hat,green,"vintage, casual",Adidas
+P0342,skirt,yellow,boho,Uniqlo
+P0343,top,yellow,"boho, vintage",Adidas
+P0344,jacket,white,boho,Nike
+P0345,shoes,blue,formal,Nike
+P0346,hat,black,minimal,Nike
+P0347,pants,blue,"boho, minimal",H&M
+P0348,top,red,"formal, minimal",Nike
+P0349,top,black,"boho, minimal",Nike
+P0350,dress,red,formal,H&M
+P0351,skirt,gray,"boho, sporty, streetwear",Zara
+P0352,jacket,beige,casual,Zara
+P0353,skirt,beige,minimal,H&M
+P0354,dress,gray,"streetwear, vintage, boho",Uniqlo
+P0355,hat,beige,casual,None
+P0356,shoes,yellow,formal,Uniqlo
+P0357,pants,beige,"vintage, casual",Levis
+P0358,dress,green,minimal,H&M
+P0359,jacket,gray,streetwear,H&M
+P0360,pants,yellow,minimal,H&M
+P0361,pants,blue,"boho, minimal",Zara
+P0362,dress,black,"boho, sporty, streetwear",None
+P0363,hat,blue,"casual, minimal",H&M
+P0364,pants,blue,"streetwear, minimal",Uniqlo
+P0365,hat,beige,"casual, formal",Nike
+P0366,shoes,white,"casual, streetwear, sporty",H&M
+P0367,shoes,yellow,"minimal, formal, vintage",Uniqlo
+P0368,top,yellow,"minimal, formal",Zara
+P0369,top,black,"sporty, formal",Uniqlo
+P0370,dress,gray,minimal,Adidas
+P0371,jacket,black,sporty,None
+P0372,hat,white,vintage,Uniqlo
+P0373,hat,black,"streetwear, casual",None
+P0374,dress,gray,vintage,Levis
+P0375,top,beige,"sporty, minimal",Adidas
+P0376,dress,beige,"formal, vintage, boho",Adidas
+P0377,pants,white,"boho, streetwear, formal",Zara
+P0378,skirt,yellow,"casual, minimal, formal",Zara
+P0379,jacket,white,sporty,Adidas
+P0380,top,black,"sporty, boho",Adidas
+P0381,skirt,black,"boho, sporty, casual",Nike
+P0382,hat,gray,"vintage, minimal",None
+P0383,hat,green,"boho, formal",None
+P0384,jacket,yellow,"sporty, streetwear",Zara
+P0385,top,black,"minimal, streetwear",Zara
+P0386,jacket,beige,formal,None
+P0387,dress,gray,sporty,Nike
+P0388,dress,red,"streetwear, sporty, formal",H&M
+P0389,jacket,blue,streetwear,Zara
+P0390,shoes,green,"streetwear, vintage, boho",Levis
+P0391,dress,red,"casual, boho",Adidas
+P0392,top,yellow,"vintage, boho, minimal",H&M
+P0393,pants,black,"streetwear, sporty, casual",Uniqlo
+P0394,shoes,yellow,"streetwear, sporty",Adidas
+P0395,shoes,beige,"vintage, casual",Uniqlo
+P0396,pants,red,"minimal, formal",Levis
+P0397,pants,yellow,vintage,Nike
+P0398,dress,green,sporty,Uniqlo
+P0399,top,gray,streetwear,Zara
+P0400,dress,white,formal,Levis
+P0401,dress,black,formal,Levis
+P0402,dress,green,sporty,Adidas
+P0403,pants,red,"formal, vintage",H&M
+P0404,dress,white,"minimal, sporty",None
+P0405,hat,black,"streetwear, minimal, sporty",Levis
+P0406,jacket,beige,"minimal, formal, boho",H&M
+P0407,pants,white,"minimal, formal",Uniqlo
+P0408,pants,blue,"streetwear, minimal, casual",Uniqlo
+P0409,top,yellow,boho,Uniqlo
+P0410,skirt,green,"sporty, boho, streetwear",Nike
+P0411,jacket,red,casual,Zara
+P0412,jacket,gray,"vintage, streetwear",None
+P0413,top,red,"minimal, casual, boho",Nike
+P0414,skirt,red,"sporty, vintage",Zara
+P0415,dress,black,boho,Nike
+P0416,hat,green,"boho, sporty, formal",Nike
+P0417,skirt,beige,casual,Zara
+P0418,jacket,gray,"sporty, boho, minimal",Nike
+P0419,pants,black,casual,Levis
+P0420,jacket,gray,formal,Levis
+P0421,hat,red,streetwear,Nike
+P0422,jacket,red,"vintage, sporty, streetwear",Zara
+P0423,jacket,gray,formal,Nike
+P0424,shoes,green,minimal,Adidas
+P0425,hat,beige,"sporty, boho, casual",Adidas
+P0426,pants,black,"boho, vintage",Uniqlo
+P0427,pants,red,minimal,Uniqlo
+P0428,dress,beige,streetwear,None
+P0429,top,gray,"vintage, minimal",Zara
+P0430,top,black,vintage,Adidas
+P0431,skirt,beige,"minimal, formal",None
+P0432,skirt,red,streetwear,Nike
+P0433,dress,gray,minimal,Adidas
+P0434,dress,black,"formal, boho, casual",Nike
+P0435,hat,gray,"streetwear, formal, casual",H&M
+P0436,skirt,yellow,casual,Nike
+P0437,dress,white,minimal,None
+P0438,dress,beige,"vintage, streetwear, minimal",Zara
+P0439,hat,black,"vintage, casual",H&M
+P0440,hat,green,"boho, streetwear",None
+P0441,jacket,beige,"casual, streetwear, sporty",H&M
+P0442,hat,gray,casual,H&M
+P0443,top,blue,sporty,None
+P0444,top,green,formal,None
+P0445,pants,white,"streetwear, casual",H&M
+P0446,shoes,white,formal,Zara
+P0447,hat,green,boho,H&M
+P0448,pants,white,vintage,H&M
+P0449,dress,white,"casual, boho",None
+P0450,pants,blue,vintage,Zara
+P0451,skirt,yellow,formal,Uniqlo
+P0452,hat,gray,"minimal, sporty",Nike
+P0453,dress,blue,"casual, boho",Nike
+P0454,top,yellow,"vintage, sporty, formal",Zara
+P0455,hat,blue,"streetwear, boho, minimal",Nike
+P0456,hat,red,"boho, sporty",Zara
+P0457,skirt,black,formal,Levis
+P0458,pants,blue,"sporty, streetwear, casual",H&M
+P0459,top,black,"sporty, casual, formal",Adidas
+P0460,pants,red,casual,Levis
+P0461,pants,green,formal,Adidas
+P0462,dress,gray,"boho, vintage, casual",Adidas
+P0463,hat,black,"streetwear, vintage",Levis
+P0464,jacket,red,"sporty, formal",None
+P0465,shoes,gray,"vintage, formal, boho",Nike
+P0466,hat,black,"streetwear, formal, casual",Levis
+P0467,skirt,black,"minimal, casual",H&M
+P0468,dress,green,"vintage, sporty, boho",Adidas
+P0469,jacket,black,"boho, minimal, streetwear",H&M
+P0470,shoes,green,"streetwear, minimal",H&M
+P0471,top,blue,streetwear,H&M
+P0472,top,beige,"vintage, formal, minimal",Uniqlo
+P0473,hat,yellow,"minimal, vintage, sporty",Zara
+P0474,top,beige,minimal,Levis
+P0475,top,beige,boho,None
+P0476,shoes,yellow,minimal,Adidas
+P0477,shoes,gray,sporty,Adidas
+P0478,top,beige,"minimal, formal, casual",Levis
+P0479,skirt,beige,minimal,H&M
+P0480,hat,beige,streetwear,None
+P0481,pants,yellow,"minimal, sporty",Zara
+P0482,top,white,"minimal, sporty, streetwear",H&M
+P0483,hat,gray,boho,Nike
+P0484,shoes,gray,"vintage, formal, sporty",None
+P0485,hat,blue,"casual, streetwear",Adidas
+P0486,jacket,black,"sporty, vintage, casual",Uniqlo
+P0487,dress,gray,streetwear,None
+P0488,skirt,red,"minimal, vintage, boho",Zara
+P0489,top,red,"formal, boho",Uniqlo
+P0490,hat,gray,"boho, vintage, casual",Zara
+P0491,dress,red,"minimal, formal",Levis
+P0492,shoes,blue,"sporty, formal, casual",Zara
+P0493,top,green,"boho, casual",H&M
+P0494,jacket,gray,boho,H&M
+P0495,pants,white,"casual, vintage",Adidas
+P0496,jacket,red,"boho, casual, formal",Adidas
+P0497,hat,gray,"sporty, formal, vintage",Nike
+P0498,shoes,white,"vintage, casual",Uniqlo
+P0499,dress,yellow,"formal, sporty",None
+P0500,pants,beige,sporty,Uniqlo
