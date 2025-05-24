@@ -1,5 +1,25 @@
 # Product Recommender: Technical Documentation
 
+## Prediction Results - 
+## User Liked Products
+
+| Product ID | Category | Color  | Style Tags               | Brand    | Tag List                     | Style Tags List          |
+|------------|----------|--------|--------------------------|----------|------------------------------|--------------------------|
+| P0001      | Shoes    | Green  | Boho                    | H&M      | [boho]                       | [boho]                   |
+| P0003      | Shoes    | Gray   | Casual                  | Unknown  | [casual]                     | [casual]                 |
+| P0006      | Shoes    | Yellow | Sporty, Streetwear, Boho| Levis    | [sporty, streetwear, boho]   | [sporty, streetwear, boho]|
+
+## Recommendations
+
+| Product ID | Category | Color  | Style Tags             | Brand    | Similarity Score |
+|------------|----------|--------|------------------------|----------|------------------|
+| P0012      | Shoes    | Red    | Boho, Formal, Casual  | Unknown  | 0.655745         |
+| P0037      | Shoes    | Beige  | Boho, Streetwear      | Levis    | 0.634389         |
+| P0317      | Shoes    | Beige  | Boho, Casual          | Zara     | 0.623191         |
+| P0329      | Shoes    | Gray   | Boho, Casual          | Levis    | 0.582173         |
+| P0339      | Shoes    | Gray   | Boho                  | Zara     | 0.542532         |
+
+---
 ## Data Handling & Feature Engineering
 
 ### Data Preprocessing
